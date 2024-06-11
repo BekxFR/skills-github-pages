@@ -19,9 +19,13 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 
 ### Skills
 
+<div align="center">
+
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| <div align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </div> | <div align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </div> | <div align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </div> |
+| [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] | [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] | [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] |
+
+</div>
 
 ### Socials
 
@@ -39,7 +43,7 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 
 <div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/BekxFR/transcendence" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=transcendence&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-</br>
+
 
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
