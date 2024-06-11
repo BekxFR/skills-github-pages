@@ -21,7 +21,7 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
+| [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] | [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] | [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] |
 
 ### Socials
 
@@ -87,3 +87,6 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 [linkedin-profile]: https://www.linkedin.com/in/cyril-hillion
 [coding-game]: https://www.codingame.com/
 [coding-profile]: https://www.codingame.com/profile/8bb24abe81f87df1bdb45b1adad1cdde9514635
+
+
+
